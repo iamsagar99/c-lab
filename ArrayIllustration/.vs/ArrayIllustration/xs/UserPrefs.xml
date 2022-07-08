@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BD7F1266-8C07-4E6A-95FF-3641AAD3F5CE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayIllustration/Program.cs">
+    <Files>
+      <File FileName="ArrayIllustration/Program.cs" Line="22" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArrayIllustration" expanded="True">
+            <Node name="ArrayIllustration" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ArrayIllustration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

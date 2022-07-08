@@ -1,0 +1,13 @@
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/bin/Debug/netcoreapp3.1/AccessModifier.deps.json
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/bin/Debug/netcoreapp3.1/AccessModifier.runtimeconfig.json
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/bin/Debug/netcoreapp3.1/AccessModifier.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/bin/Debug/netcoreapp3.1/AccessModifier.dll
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/bin/Debug/netcoreapp3.1/AccessModifier.pdb
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.dll
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.pdb
+/Users/sagarpoudel/Projects/AccessModifier/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{825E11AC-0860-412A-8211-32402EFF259C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HybridInheritance/Program.cs">
+    <Files>
+      <File FileName="HybridInheritance/Program.cs" Line="43" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HybridInheritance" expanded="True">
+            <Node name="HybridInheritance" expanded="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HybridInheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

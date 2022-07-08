@@ -1,0 +1,13 @@
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/bin/Debug/netcoreapp3.1/ArrayIllustration.deps.json
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/bin/Debug/netcoreapp3.1/ArrayIllustration.runtimeconfig.json
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/bin/Debug/netcoreapp3.1/ArrayIllustration.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/bin/Debug/netcoreapp3.1/ArrayIllustration.dll
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/bin/Debug/netcoreapp3.1/ArrayIllustration.pdb
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/obj/Debug/netcoreapp3.1/ArrayIllustration.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/obj/Debug/netcoreapp3.1/ArrayIllustration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/obj/Debug/netcoreapp3.1/ArrayIllustration.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/obj/Debug/netcoreapp3.1/ArrayIllustration.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/obj/Debug/netcoreapp3.1/ArrayIllustration.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/obj/Debug/netcoreapp3.1/ArrayIllustration.dll
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/obj/Debug/netcoreapp3.1/ArrayIllustration.pdb
+/Users/sagarpoudel/Projects/ArrayIllustration/ArrayIllustration/obj/Debug/netcoreapp3.1/ArrayIllustration.genruntimeconfig.cache

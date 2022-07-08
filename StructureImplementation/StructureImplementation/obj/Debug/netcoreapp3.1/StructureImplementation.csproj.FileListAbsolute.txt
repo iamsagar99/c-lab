@@ -1,0 +1,13 @@
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/bin/Debug/netcoreapp3.1/StructureImplementation.deps.json
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/bin/Debug/netcoreapp3.1/StructureImplementation.runtimeconfig.json
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/bin/Debug/netcoreapp3.1/StructureImplementation.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/bin/Debug/netcoreapp3.1/StructureImplementation.dll
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/bin/Debug/netcoreapp3.1/StructureImplementation.pdb
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/obj/Debug/netcoreapp3.1/StructureImplementation.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/obj/Debug/netcoreapp3.1/StructureImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/obj/Debug/netcoreapp3.1/StructureImplementation.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/obj/Debug/netcoreapp3.1/StructureImplementation.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/obj/Debug/netcoreapp3.1/StructureImplementation.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/obj/Debug/netcoreapp3.1/StructureImplementation.dll
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/obj/Debug/netcoreapp3.1/StructureImplementation.pdb
+/Users/sagarpoudel/Projects/StructureImplementation/StructureImplementation/obj/Debug/netcoreapp3.1/StructureImplementation.genruntimeconfig.cache

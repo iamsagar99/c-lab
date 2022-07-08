@@ -1,0 +1,13 @@
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/bin/Debug/netcoreapp3.1/CbaseIO.deps.json
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/bin/Debug/netcoreapp3.1/CbaseIO.runtimeconfig.json
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/bin/Debug/netcoreapp3.1/CbaseIO.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/bin/Debug/netcoreapp3.1/CbaseIO.dll
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/bin/Debug/netcoreapp3.1/CbaseIO.pdb
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/obj/Debug/netcoreapp3.1/CbaseIO.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/obj/Debug/netcoreapp3.1/CbaseIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/obj/Debug/netcoreapp3.1/CbaseIO.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/obj/Debug/netcoreapp3.1/CbaseIO.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/obj/Debug/netcoreapp3.1/CbaseIO.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/obj/Debug/netcoreapp3.1/CbaseIO.dll
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/obj/Debug/netcoreapp3.1/CbaseIO.pdb
+/Users/sagarpoudel/Projects/CbaseIO/CbaseIO/obj/Debug/netcoreapp3.1/CbaseIO.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/bin/Debug/netcoreapp3.1/HybridInheritance.deps.json
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/bin/Debug/netcoreapp3.1/HybridInheritance.runtimeconfig.json
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/bin/Debug/netcoreapp3.1/HybridInheritance.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/bin/Debug/netcoreapp3.1/HybridInheritance.dll
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/bin/Debug/netcoreapp3.1/HybridInheritance.pdb
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/obj/Debug/netcoreapp3.1/HybridInheritance.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/obj/Debug/netcoreapp3.1/HybridInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/obj/Debug/netcoreapp3.1/HybridInheritance.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/obj/Debug/netcoreapp3.1/HybridInheritance.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/obj/Debug/netcoreapp3.1/HybridInheritance.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/obj/Debug/netcoreapp3.1/HybridInheritance.dll
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/obj/Debug/netcoreapp3.1/HybridInheritance.pdb
+/Users/sagarpoudel/Projects/HybridInheritance/HybridInheritance/obj/Debug/netcoreapp3.1/HybridInheritance.genruntimeconfig.cache

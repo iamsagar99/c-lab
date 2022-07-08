@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BEB567F1-9FDC-443B-8995-D1079926DF27}|Default">
+  <MonoDevelop.Ide.ItemProperties.StructureImplementation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StructureImplementation/Program.cs">
+    <Files>
+      <File FileName="StructureImplementation/Program.cs" Line="30" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StructureImplementation" expanded="True">
+            <Node name="StructureImplementation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

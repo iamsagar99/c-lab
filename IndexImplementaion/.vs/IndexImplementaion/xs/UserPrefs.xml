@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7AF30C20-5FF6-46D9-AB9E-42FD83585219}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IndexImplementaion/Program.cs">
+    <Files>
+      <File FileName="IndexImplementaion/Program.cs" Line="10" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IndexImplementaion" expanded="True" selected="True">
+            <Node name="IndexImplementaion" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IndexImplementaion PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

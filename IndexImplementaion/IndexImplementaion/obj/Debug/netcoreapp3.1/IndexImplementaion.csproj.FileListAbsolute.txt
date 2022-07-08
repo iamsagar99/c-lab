@@ -1,0 +1,13 @@
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/bin/Debug/netcoreapp3.1/IndexImplementaion.deps.json
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/bin/Debug/netcoreapp3.1/IndexImplementaion.runtimeconfig.json
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/bin/Debug/netcoreapp3.1/IndexImplementaion.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/bin/Debug/netcoreapp3.1/IndexImplementaion.dll
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/bin/Debug/netcoreapp3.1/IndexImplementaion.pdb
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/obj/Debug/netcoreapp3.1/IndexImplementaion.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/obj/Debug/netcoreapp3.1/IndexImplementaion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/obj/Debug/netcoreapp3.1/IndexImplementaion.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/obj/Debug/netcoreapp3.1/IndexImplementaion.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/obj/Debug/netcoreapp3.1/IndexImplementaion.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/obj/Debug/netcoreapp3.1/IndexImplementaion.dll
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/obj/Debug/netcoreapp3.1/IndexImplementaion.pdb
+/Users/sagarpoudel/Projects/IndexImplementaion/IndexImplementaion/obj/Debug/netcoreapp3.1/IndexImplementaion.genruntimeconfig.cache

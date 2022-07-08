@@ -1,0 +1,13 @@
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/bin/Debug/netcoreapp3.1/Enemuration.deps.json
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/bin/Debug/netcoreapp3.1/Enemuration.runtimeconfig.json
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/bin/Debug/netcoreapp3.1/Enemuration.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/bin/Debug/netcoreapp3.1/Enemuration.dll
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/bin/Debug/netcoreapp3.1/Enemuration.pdb
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/obj/Debug/netcoreapp3.1/Enemuration.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/obj/Debug/netcoreapp3.1/Enemuration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/obj/Debug/netcoreapp3.1/Enemuration.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/obj/Debug/netcoreapp3.1/Enemuration.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/obj/Debug/netcoreapp3.1/Enemuration.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/obj/Debug/netcoreapp3.1/Enemuration.dll
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/obj/Debug/netcoreapp3.1/Enemuration.pdb
+/Users/sagarpoudel/Projects/Enemuration/Enemuration/obj/Debug/netcoreapp3.1/Enemuration.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A6643CE2-6163-4165-95A1-FF9597A04E13}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultipleInheritance/Program.cs">
+    <Files>
+      <File FileName="MultipleInheritance/Program.cs" Line="42" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultipleInheritance" expanded="True">
+            <Node name="MultipleInheritance" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MultipleInheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

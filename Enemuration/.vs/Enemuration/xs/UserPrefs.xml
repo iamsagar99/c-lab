@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7F441D95-A45A-4D31-BE93-14E57E79D373}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Enemuration/Program.cs">
+    <Files>
+      <File FileName="Enemuration/Program.cs" Line="21" Column="80" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Enemuration" expanded="True">
+            <Node name="Enemuration" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Enemuration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
